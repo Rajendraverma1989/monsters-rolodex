@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rajendraverma1989/monsters-rolodex.git/static/css/main.6db54891.chunk.css",
+    "main.js": "/Rajendraverma1989/monsters-rolodex.git/static/js/main.9aba03c7.chunk.js",
+    "main.js.map": "/Rajendraverma1989/monsters-rolodex.git/static/js/main.9aba03c7.chunk.js.map",
+    "runtime-main.js": "/Rajendraverma1989/monsters-rolodex.git/static/js/runtime-main.abe8bd19.js",
+    "runtime-main.js.map": "/Rajendraverma1989/monsters-rolodex.git/static/js/runtime-main.abe8bd19.js.map",
+    "static/js/2.ee096883.chunk.js": "/Rajendraverma1989/monsters-rolodex.git/static/js/2.ee096883.chunk.js",
+    "static/js/2.ee096883.chunk.js.map": "/Rajendraverma1989/monsters-rolodex.git/static/js/2.ee096883.chunk.js.map",
+    "index.html": "/Rajendraverma1989/monsters-rolodex.git/index.html",
+    "precache-manifest.222a2d4ceb3e6a39846649d541460e7b.js": "/Rajendraverma1989/monsters-rolodex.git/precache-manifest.222a2d4ceb3e6a39846649d541460e7b.js",
+    "service-worker.js": "/Rajendraverma1989/monsters-rolodex.git/service-worker.js",
+    "static/css/main.6db54891.chunk.css.map": "/Rajendraverma1989/monsters-rolodex.git/static/css/main.6db54891.chunk.css.map",
+    "static/js/2.ee096883.chunk.js.LICENSE": "/Rajendraverma1989/monsters-rolodex.git/static/js/2.ee096883.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abe8bd19.js",
+    "static/js/2.ee096883.chunk.js",
+    "static/css/main.6db54891.chunk.css",
+    "static/js/main.9aba03c7.chunk.js"
+  ]
+}
